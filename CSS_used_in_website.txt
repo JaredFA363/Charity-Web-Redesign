@@ -1,0 +1,6 @@
+selector .swiper-wrapper {
+  -webkit-transition-timing-function: linear !important;
+  transition-timing-function: linear !important; 
+}
+
+This is so that the image carousel in the footer flows linearly
